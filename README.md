@@ -68,7 +68,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript,react,next.js," />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
 <br/><br/>
 
 </td>
@@ -116,6 +116,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p> -->
+
 
 
 
